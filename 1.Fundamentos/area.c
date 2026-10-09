@@ -1,3 +1,21 @@
+/* -------------------------------------------------------------------------
+* SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI
+* Curso: Técnico em Desenvolvimento de Sistemas
+* UC: IOT - 2o Módulo
+* Cidade: Cascavel - Pr
+* Aluno: Lucas Boeing
+* Prof.: Ana
+*
+*  Descrição:
+*  Programa: Area do circulo
+*  Objetivo:
+*  - primeiro pede ao usuario o raio
+*  - depois realiza o calculo da area
+*  - apos isso mostra o valor da area
+* Data: 09/10/2026
+* -------------------------------------------------------------------------
+*/
+
 #include <stdio.h>
 
 int main() {
